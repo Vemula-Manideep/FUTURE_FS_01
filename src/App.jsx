@@ -65,11 +65,7 @@ function App() {
             Passionate about building software with Java, C++, and Python.
           </p>
           
-          <div className="hero-buttons">
-            <a href="#contact" className="btn primary-btn">Hire Me</a>
-            {/* Make sure you put a resume.pdf in your 'public' folder */}
-            <a href="/resume.pdf" download="Manideep_Resume.pdf" className="btn secondary-btn">Download CV</a>
-          </div>
+          
 
           <div className="social-links">
             <a href="https://github.com/Vemula-Manideep" target="_blank" rel="noopener noreferrer">
@@ -111,7 +107,7 @@ function App() {
             <div style={{color: '#00d4ff', fontSize: '0.9rem', marginBottom: '15px'}}>
               React • CSS3 • Vercel
             </div>
-            <a href="https://github.com/Vemula-Manideep/my-portfolio" target="_blank" rel="noopener noreferrer" style={{color: '#00d4ff', textDecoration: 'none', fontWeight: 'bold'}}>
+            <a href="https://github.com/Vemula-Manideep/FUTURE_FS_01" target="_blank" rel="noopener noreferrer" style={{color: '#00d4ff', textDecoration: 'none', fontWeight: 'bold'}}>
               View Source Code &rarr;
             </a>
           </div>
